@@ -31,4 +31,6 @@ Untuk beberapa tipe operasi geografis, hasil akhir terbaik diwujudkan dalam peta
 
 Untuk ke penjelasan youtube bisa di link di bawah ini:
 https://www.youtube.com/watch?v=aLZ3fNKuYDI&feature=youtu.be
+Untuk blog bisa di link :
+https://ditaasite.wordpress.com/
 
