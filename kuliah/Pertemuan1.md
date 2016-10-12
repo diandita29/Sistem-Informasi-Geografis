@@ -33,4 +33,6 @@ Untuk ke penjelasan youtube bisa di link di bawah ini:
 https://www.youtube.com/watch?v=aLZ3fNKuYDI&feature=youtu.be
 Untuk blog bisa di link :
 https://ditaasite.wordpress.com/
+Untuk scan plagiat di link :
+https://github.com/diandita29/Sistem-Informasi-Geografis/blob/master/kuliah/smallseotools-1476277658.pdf
 
