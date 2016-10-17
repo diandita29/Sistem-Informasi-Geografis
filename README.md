@@ -1,5 +1,7 @@
-# Diandita Wira Puspita 
-# 1144028
-# D4 Teknik Informatika 3C
-# Politeknik Pos Indonesia
+# Sistem Informasi Geografis 
+This is example repository for educational purpose
+## About
+NPM| Name| Class | Prodi
+------------ | ------------- | ------------- | -------------
+1144028| Diandita Wira Puspita| 3C| D4 Teknik Informatika Politeknik Pos Indonesia
 
