@@ -24,6 +24,9 @@ Scan:
 https://drive.google.com/open?id=0B17w878LGlWFV0c5Q0pwT1BDN3M 
 https://drive.google.com/open?id=0B17w878LGlWFQlQ3Q3VHQlJLRG8 
 
+Blog:
+http://dianditapuspita.blogspot.co.id/
+
 Youtube:
 https://youtu.be/RfTosRZC3D0
 
