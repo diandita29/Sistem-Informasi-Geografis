@@ -3,33 +3,46 @@ Diandita Wira Puspita
 D4 Teknik Informatika 3C
 Politeknik Pos Indonesia
 
+
 SISTEM INFORMASI GEOGRAFIS
-FIREWALL
+MAP SERVER & MAP PROXY
 
-Firewall adalah suatu aturan di dalam sebuah sistem operasi yang berfungsi untuk mengatur untuk paket yang datang dan pergi dari suatu jaringan.
 
-Cara Kerja Firewall :
-1. Pass : Membolehkan paket untuk lewat.
-2. Block : Melarang paket untuk lewat, tetapi memberitahu pengirim bahwa paketnya dilarang untuk        lewat.
-3. Drop : Melarang paket untuk lewat, tetapi memberitahu pengirim bahwa paketnya dilarang untuk        lewat.
 
-Fungsi Firewall :
-1. Semua jaringan komunikasi melewati firewall.
-2. Hanya lalu lintas resmi diperbolehkan oleh firewall.
-3. Memiliki kemampuan untuk menahan serangan internet.
 
-Cara Kerja Firewall :
-Komputer memiliki ribuan port yang dapat diakses untuk berbagai keperluan. Cara kerja Firewall dari komputer adalah menutup port kecuali untuk beberapa port tertentu yang perlu tetap terbuka. Firewall di komputer bertindak sebagai garis pertahanan terdepan dalam mencegah semua jenis hacking ke dalam jaringan, karena setiap hacker yang mencoba untuk menembus ke dalam jaringan komputer akan mencari port yang terbuka yang dapat diaksesnya.
+Pengertian
+Map Server adalah suatu aplikasi untuk mengubah data vektor geospasial menjadi gambar untuk ditampilkan sebagai web service.
+
+Cara Install
+Centos 6.8
+- Jika tidak ada cetos maka jalankan saja di virtual box, ISO contos dan virtual box ada di halaman        download.
+- Setelah itu pastikan koneksi jaringan virtual box bisa diakses dari komputer host.
+- Di Centos buka terminal lalu login sebagai root.
+
+Pengertian
+Map Proxy yang berfungsi untuk menampung hasil gambar dari map server agar komsumsi komputasi bisa reduksi.
+
+Cara Install
+- Install python - pip dan python - dev
+# gvm install python - pip python - dev 
+- Install map proxy
+# pip install map proxy
+- Install vwsqi
+# pip install vwsqi
 
 Kesimpulan
-Firewall adalah suatu sistem operasi yang bertugas untuk mengatur jalannya paket.
+Map server dan Map proxy sangat lah berpengaruh untuk mengubah dan untuk menampung data vektor yang digunakan dalam Geospasial.
 
 Saran
-Sebaiknya sebelum melakukan praktikum kita harus mepelajari dan mendalami bagian Firewall agar lebih jelas.
+Sebaiknya kita harus belajar lebih dalam lagi mengenai map server dan map proxy agar kita lebih mengerti jalannya install.
 
 Referensi
-https://siswandapratama12tkj2.wordpress.com/2014/10/20/firewall-pengertian-fungsi-manfaat-dan-cara-kerja-firewall/
+https://dennycharter.wordpress.com/2008/05/09/cara-kerja-mapserver/
 
 Scan
-https://drive.google.com/open?id=0B17w878LGlWFSWNkOEo1TnVtYzQ
-https://drive.google.com/open?id=0B17w878LGlWFNU4wcXB5ckloM00
+https://drive.google.com/open?id=0B17w878LGlWFSmQ3TTl2b296bFE
+https://drive.google.com/open?id=0B17w878LGlWFSjhOR1hfZ2lVUHM
+
+Github
+
+
