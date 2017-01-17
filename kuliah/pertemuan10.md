@@ -258,8 +258,8 @@ Jadi, OpenLayers merupakan Library JavaScript untuk menempatkan peta dinamis di 
 ## Saran
 Diharapkan memahami materi secara mendetail dan memahami praktikum dengan benar.
 <br>
-* Nama : Bayu Rahmad Azhari
-* NPM : 1144125
+* Nama : Diandita Wira Puspita
+* NPM : 1144028
 * Kelas : 3C
 * Prodi : D4 Teknik Informatika
 * Kampus : Politeknik Pos Indonesia
