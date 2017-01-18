@@ -1,15 +1,15 @@
-Diandita Wira Puspita
-1144028
-D4 Teknik Informatika 3C
-Politeknik Pos Indonesia
+# Diandita Wira Puspita
+# 1144028
+# D4 Teknik Informatika 3C
+# Politeknik Pos Indonesia
 
 
 
-Pembahasan
+# Pembahasan
 
 OpenLayers adalah suatu Library JavaScript untuk menempatkan peta dinamis di halaman web. OpenLayers dapat menampilkan map tiles, data vektor dan marker dari sumber manapun. OpenLayers dikembangkan untuk lebih memanfaatkan semua jenis informasi geografis dan dirilis dibawah lisensi FreeBSD.
 
-Contoh Source Code
+# Contoh Source Code
 
 <!DOCTYPE html>
 
@@ -46,8 +46,6 @@ wilayah['3403'] = "Gunung Kidul";
 wilayah['3404'] = "Sleman";
 
 wilayah['3471'] = "Kota Yogyakarta";
-
- 
 
 // array batas bawah kelas (4 kelas)
 
